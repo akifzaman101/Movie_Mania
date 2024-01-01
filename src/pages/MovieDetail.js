@@ -64,7 +64,7 @@ export const MovieDetail = () => {
               href="#"
               className="text-gray-900 dark:text-white"
             >
-              {movie.vote_count}
+              {movie.vote_count} reviews
             </span>
           </div>
           <p className="my-4">
